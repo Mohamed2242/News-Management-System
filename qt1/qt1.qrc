@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/qt1">
+        <file>design20.png</file>
+    </qresource>
+</RCC>
